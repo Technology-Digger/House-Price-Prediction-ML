@@ -75,6 +75,3 @@ jupyter notebook
 ```
 House Price Prediction.ipynb
 ```
-
-## 🗂️ Project Structure
-
